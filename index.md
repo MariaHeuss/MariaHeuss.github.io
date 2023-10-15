@@ -9,6 +9,6 @@ menu_entry: About me
 
 # Maria Heuss
 
-I am a PhD student under the supervision of [Maarten de Rijke](https://staff.fnwi.uva.nl/m.derijke). 
+I am a PhD student at the [UvA](https://uva.nl) under the supervision of [Maarten de Rijke](https://staff.fnwi.uva.nl/m.derijke). 
 
 I am interested in ...  
