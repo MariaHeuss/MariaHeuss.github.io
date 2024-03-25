@@ -1,0 +1,8 @@
+@inproceedings{heuss-2023-predictive,
+author = {Heuss, Maria and Cohen, Daniel and Mansoury, Masoud and de Rijke, Maarten and Eickhoff, Carsten},
+booktitle = {CIKM 2023: 32nd ACM International Conference on Information and Knowledge Management},
+month = {October},
+pages = {762--772},
+publisher = {ACM},
+title = {Predictive Uncertainty-based Bias Mitigation in Ranking},
+year = {2023}}

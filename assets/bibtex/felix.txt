@@ -1,0 +1,8 @@
+@inproceedings{heuss-2022-fairness,
+author = {Heuss, Maria and Sarvi, Fatemeh and de Rijke, Maarten},
+booktitle = {SIGIR 2022: 45th international ACM SIGIR Conference on Research and Development in Information Retrieval},
+month = {July},
+pages = {759--769},
+publisher = {ACM},
+title = {Fairness of Exposure in Light of Incomplete Exposure Estimation},
+year = {2022}}

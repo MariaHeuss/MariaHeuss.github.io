@@ -1,0 +1,10 @@
+@inproceedings{sarvi-2022-understanding,
+author = {Sarvi, Fatemeh and Heuss, Maria and Aliannejadi, Mohammad and Schelter, Sebastian and de Rijke, Maarten},
+booktitle = {WSDM 2022: The Fifteenth International Conference on Web Search and Data Mining},
+date-added = {2021-10-12 06:20:17 +0200},
+date-modified = {2022-02-26 10:21:08 +0100},
+month = {February},
+pages = {861--869},
+publisher = {ACM},
+title = {Understanding and Mitigating the Effect of Outliers in Fair Ranking},
+year = {2022}}
