@@ -6,6 +6,7 @@ menu_entry: About me
 ---
 
 <!-- <img style="float: right; padding: 10px" width="300" height="278" src="/assets/Pic.jpg" /> -->
+<img style="float: right; padding: 10px" width="300" height="278" src="/assets/Maria_photo.jpg" />
 
 # Maria Heuss
 
