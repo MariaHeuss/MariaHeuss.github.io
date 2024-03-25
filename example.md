@@ -3,7 +3,7 @@ layout: page
 title: Example
 permalink: /example
 show_title: false
-published: false
+published: true
 ---
 
-Example
+Example [pdf](/assets/test.pdf)
