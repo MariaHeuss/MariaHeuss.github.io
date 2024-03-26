@@ -1,6 +1,6 @@
 @inproceedings{heuss-2024-rankingshap,
 author = {Heuss, Maria and de Rijke, Maarten and Anand Avishek},
-booktitle = {arXiv preprint},
+booktitle = {arXiv preprint arXiv:2403.16085},
 month = {March},
 title = {RankingSHAP – Listwise Feature Attribution Explanations for Ranking Models},
 year = {2024}}
