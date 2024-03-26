@@ -7,7 +7,7 @@ published: true
 ---
 
 ## RankingSHAP – Listwise Feature Attribution Explanations for Ranking Models 
-__Maria Heuss, Maarten de Rijke, Avishek Anand__. Under Review. 
+__Maria Heuss, Maarten de Rijke, Avishek Anand__. Preprint 
 [pdf](/assets/rankingshap.pdf) [bibtex](/assets/bibtex/rankingshap.txt)
 
 Explaining ranking decisions, which aggregate numerous small judgments about the relative order of documents, present a unique challenge. It's essential to pinpoint the exact decision we aim to explain. In this paper, we introduce a concept of feature attribution for ranking models, concentrating on one aspect of the ranking decision at a time, such as the overall ranking order or the rationale behind placing a particular document at the top of the list. We develope a framework that, upon identifying the specific aspect for explanation, enables the use of the renowned explainability tool, SHAP, to produce feature attribution explanations.
