@@ -6,8 +6,29 @@ show_title: true
 published: true
 ---
 
+# Publications
+
+Here you can find a selection of my articles, a more comprehensive overview can be found on [my Google Scholar profile](https://scholar.google.com/citations?user=qXAS26EAAAAJ). 
+
+
+## How Do LLMs Cite? A Mechanistic Interpretation of Attribution in RAG 
+__Ian van Dort, Maria Heuss__. To appear in ECIR 2026: 48th European Conference on Information Retrieval
+[bibtex](/assets/bibtex/howdollmscite.txt)
+
+## Responsible Advice-Giving Systems – Fairness and Interpretability in Information Retrieval
+__Maria Heuss__. Published in University of Amsterdam, PhD thesis, 2025 
+[pdf](/assets/thesis.pdf)
+
+## Correctness is not Faithfulness in Retrieval Augmented Generation Attributions 
+__Jonas Wallat\*, Maria Heuss\*, Maarten de Rijke, Avishek Anand__. In ICTIR 2025: Proceedings of the 2025 International ACM SIGIR Conference on Innovative Concepts and Theories in Information Retrieval (ICTIR)
+[pdf](/assets/correctness.pdf), [bibtex](/assets/bibtex/correctness_is_not.txt)
+
+This paper won the ICTIR ’25 Honorable Mention.
+
+\* Equal contribution
+
 ## RankingSHAP – Listwise Feature Attribution Explanations for Ranking Models 
-__Maria Heuss, Maarten de Rijke, Avishek Anand__. Preprint 
+__Maria Heuss, Maarten de Rijke, Avishek Anand__. Published in SIGIR 2025:  48th International ACM SIGIR Conference on Research and Development in Information Retrieval
 [pdf](/assets/rankingshap.pdf), [bibtex](/assets/bibtex/rankingshap.txt), [code](https://github.com/MariaHeuss/RankingShap)
 
 Explaining ranking decisions, which aggregate numerous small judgments about the relative order of documents, present a unique challenge. It's essential to pinpoint the exact decision we aim to explain. In this paper, we introduce a concept of feature attribution for ranking models, concentrating on one aspect of the ranking decision at a time, such as the overall ranking order or the rationale behind placing a particular document at the top of the list. We develope a framework that, upon identifying the specific aspect for explanation, enables the use of the renowned explainability tool, SHAP, to produce feature attribution explanations.

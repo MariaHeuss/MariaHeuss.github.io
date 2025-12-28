@@ -1,6 +1,8 @@
-@inproceedings{heuss-2024-rankingshap,
-author = {Heuss, Maria and de Rijke, Maarten and Anand Avishek},
-booktitle = {arXiv preprint arXiv:2403.16085},
-month = {March},
-title = {RankingSHAP – Listwise Feature Attribution Explanations for Ranking Models},
-year = {2024}}
+@inproceedings{heuss-2025-explaining,
+author = {Heuss, Maria and de Rijke, Maarten and Anand, Avishek},
+booktitle = {SIGIR 2025: 48th international ACM SIGIR Conference on Research and Development in Information Retrieval},
+month = {July},
+pages = {381-391},
+publisher = {ACM},
+title = {{RankingSHAP} -- Faithful Listwise Feature Attribution Explanations for Ranking Models},
+year = {2025}}

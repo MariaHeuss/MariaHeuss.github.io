@@ -1,0 +1,6 @@
+@inproceedings{vandort2026,
+author = {van Dort, Ian and Heuss Maria},
+booktitle = {ECIR 2026: 48th European Conference on Information Retrieval},
+month = {April},
+title = {How Do LLMs Cite? A Mechanistic Interpretation of Attribution in RAG},
+year = {2026}}

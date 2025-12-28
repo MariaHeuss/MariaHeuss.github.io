@@ -1,0 +1,8 @@
+@inproceedings{wallat-2025-correctness,
+author = {Wallat, Jonas and Heuss, Maria and de Rijke, Maarten and Anand, Avishek},
+booktitle = {ICTIR '25: Proceedings of the 2025 International ACM SIGIR Conference on Innovative Concepts and Theories in Information Retrieval (ICTIR)},
+month = {July},
+pages = {22--32},
+publisher = {ACM},
+title = {Correctness is not Faithfulness in Retrieval Augmented Generation Attributions},
+year = {2025}}
