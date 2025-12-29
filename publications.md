@@ -1,12 +1,10 @@
 ---
 layout: page
-title: Publications
+title: Selected Publications
 permalink: /publications
 show_title: true
 published: true
 ---
-
-# Selected Publications
 
 Here you can find a selection of my articles, a more comprehensive overview can be found on [my Google Scholar profile](https://scholar.google.com/citations?user=qXAS26EAAAAJ). 
 
