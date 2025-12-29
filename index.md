@@ -10,8 +10,8 @@ menu_entry: About me
 
 # Maria Heuss
 
-I am an Assistant Professor at the  Information Retrieval Lab ([IRLab](https://irlab.science.uva.nl/about/)) of the University of Amsterdam ([UvA])(https://uva.nl). My research focuses on responsible advice-giving systems. During my PhD at the UvA, I did research on fairness and interpretability in information retrieval under the supervision of
-[Maarten de Rijke](https://staff.fnwi.uva.nl/m.derijke) and [Avishek Anand](https://www.avishekanand.com). My PhD was funded by the [Hybrid Intelligence Center](https://www.hybrid-intelligence-centre.nl). My MSc and BSc are both in (pure) mathematics from [Univeristy of Freiburg](https://uni-freiburg.de/en/) in Germany.   
+I am an Assistant Professor at the  Information Retrieval Lab ([IRLab](https://irlab.science.uva.nl/about/)) of the University of Amsterdam ([UvA](https://uva.nl)). My research focuses on responsible advice-giving systems. During my PhD at the UvA, I did research on fairness and interpretability in information retrieval under the supervision of
+[Maarten de Rijke](https://staff.fnwi.uva.nl/m.derijke) and [Avishek Anand](https://www.avishekanand.com) at the IRLab. My PhD was funded by the [Hybrid Intelligence Center](https://www.hybrid-intelligence-centre.nl). My MSc and BSc are both in (pure) mathematics from [Univeristy of Freiburg](https://uni-freiburg.de/en/) in Germany.   
 
 # News
 - **[Jan 2026]** I am hiring! We will have a PhD position available at the UvA responsible advice giving systems. (Link + details on this in January)
