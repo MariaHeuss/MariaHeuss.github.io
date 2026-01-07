@@ -11,14 +11,14 @@ menu_entry: About me
 # Maria Heuss
 
 I am an Assistant Professor at the  Information Retrieval Lab ([IRLab](https://irlab.science.uva.nl/about/)) of the University of Amsterdam ([UvA](https://uva.nl)). My research focuses on responsible advice-giving systems. During my PhD at the UvA, I did research on fairness and interpretability in information retrieval under the supervision of
-[Maarten de Rijke](https://staff.fnwi.uva.nl/m.derijke) and [Avishek Anand](https://www.avishekanand.com) at the IRLab. My PhD was funded by the [Hybrid Intelligence Center](https://www.hybrid-intelligence-centre.nl). My MSc and BSc are both in (pure) mathematics from [Univeristy of Freiburg](https://uni-freiburg.de/en/) in Germany.   
+[Maarten de Rijke](https://staff.fnwi.uva.nl/m.derijke) and [Avishek Anand](https://www.avishekanand.com) at the IRLab. My PhD was funded by the [Hybrid Intelligence Center](https://www.hybrid-intelligence-centre.nl). My MSc and BSc are both in (pure) mathematics from [University of Freiburg](https://uni-freiburg.de/en/) in Germany.   
 
 # News
 - **[Jan 2026]** I am hiring! We will have a PhD position available at the UvA responsible advice giving systems. (Link + details on this in January)
 - **[Jan 2026]** I have started my position as assistant professor at the IRLab, UvA 
 - **[Dec 2025]** Our tutorial on mechanistic interpretability in IR was accepted to ECIR 2026
 - **[Dec 2025]** Our paper "How Do LLMs Cite? A Mechanistic Interpretation of Attribution in RAG"  has been accepted to the IR-for-Good track at ECIR 2026.
-- **[Oct 2025]** I've successfully defended my [PhD thesis](/assets/thesis.pdf) , entitled "Responisble Advice Giving Systems - Fairness and Interpretability in Information Retrieval". 
+- **[Oct 2025]** I've successfully defended my [PhD thesis](/assets/thesis.pdf), entitled "Responsible Advice Giving Systems - Fairness and Interpretability in Information Retrieval". 
 - **[July 2025]** Our workshop on explainable information retrieval ([WExIR](https://xirworkshop.github.io)) at SIGIR 2025 has been a full success. 
 - **[July 2025]** I have presented our [paper](/assets/rankingshap.pdf) "RankingSHAP – Listwise Feature Attribution Explanations for Ranking Models" at SIGIR 2025
 - **[June 2025]** Our [paper](/assets/correctness.pdf) "Correctness is not Faithfulness in Retrieval Augmented Generation Attributions" has been accepted to ICTIR 2025.
