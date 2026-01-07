@@ -5,16 +5,19 @@ layout: page
 menu_entry: About me
 ---
 
-<!-- <img style="float: right; padding: 10px" width="300" height="278" src="/assets/Pic.jpg" /> -->
 <img style="float: right; padding: 10px" width="300" height="293" src="/assets/Maria_photo.jpeg" />
 
 # Maria Heuss
 
-I am an Assistant Professor at the  Information Retrieval Lab ([IRLab](https://irlab.science.uva.nl/about/)) of the University of Amsterdam ([UvA](https://uva.nl)). My research focuses on responsible advice-giving systems. During my PhD at the UvA, I did research on fairness and interpretability in information retrieval under the supervision of
-[Maarten de Rijke](https://staff.fnwi.uva.nl/m.derijke) and [Avishek Anand](https://www.avishekanand.com) at the IRLab. My PhD was funded by the [Hybrid Intelligence Center](https://www.hybrid-intelligence-centre.nl). My MSc and BSc are both in (pure) mathematics from [University of Freiburg](https://uni-freiburg.de/en/) in Germany.   
+I am an Assistant Professor at the Information Retrieval Lab ([IRLab](https://irlab.science.uva.nl/about/)) of the University of Amsterdam ([UvA](https://uva.nl)). 
+
+My research focuses on responsible advice-giving systems. During my PhD at the UvA, I did research on fairness and interpretability in information retrieval under the supervision of
+[Maarten de Rijke](https://staff.fnwi.uva.nl/m.derijke) and [Avishek Anand](https://www.avishekanand.com) at the IRLab. My PhD was funded by the [Hybrid Intelligence Center](https://www.hybrid-intelligence-centre.nl). 
+
+My BSc and MSc are both in (pure) mathematics from [University of Freiburg](https://uni-freiburg.de/en/) in Germany.
 
 # News
-- **[Jan 2026]** I am hiring! We will have a PhD position available at the UvA responsible advice giving systems. (Link + details on this in January)
+- **[Jan 2026]** I am hiring! We will have a PhD position available at the UvA on responsible advice-giving systems. (Link + details on this in January)
 - **[Jan 2026]** I have started my position as assistant professor at the IRLab, UvA 
 - **[Dec 2025]** Our tutorial on mechanistic interpretability in IR was accepted to ECIR 2026
 - **[Dec 2025]** Our paper "How Do LLMs Cite? A Mechanistic Interpretation of Attribution in RAG"  has been accepted to the IR-for-Good track at ECIR 2026.
