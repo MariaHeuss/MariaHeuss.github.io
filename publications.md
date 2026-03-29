@@ -11,7 +11,7 @@ Here you can find a selection of my articles, a more comprehensive overview can 
 
 ## How Do LLMs Cite? A Mechanistic Interpretation of Attribution in RAG 
 __Ian van Dort, Maria Heuss__. To appear in ECIR 2026: 48th European Conference on Information Retrieval
-[bibtex](/assets/bibtex/howdollmscite.txt)
+[pdf](/assets/how_do_llms_cite.pdf), [bibtex](/assets/bibtex/howdollmscite.txt)
 
 ## Responsible Advice-Giving Systems – Fairness and Interpretability in Information Retrieval
 __Maria Heuss__. Published in University of Amsterdam, PhD thesis, 2025 
